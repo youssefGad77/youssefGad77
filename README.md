@@ -5,7 +5,7 @@
 ### 💻 Junior Backend & Mobile Developer | .NET & Flutter
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Developer;Flutter+Developer;.NET+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Developer;Flutter+Developer;.NET+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </a>
 
 <br/>
